@@ -25,7 +25,7 @@
 </head>
 
 <body>
-  <p>こんにちは</p>
+  <p>Hello World</p>
 </body>
 
 </html>
